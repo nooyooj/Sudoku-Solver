@@ -1,7 +1,6 @@
 rows = 'ABCDEFGHI'
 cols = '123456789'
 
-
 def concatenate(a, b):
 
         """Returns the list formed by all the possible concatenations of a letters in strings
